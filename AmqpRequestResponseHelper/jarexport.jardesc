@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="c:/temp/cocop_amqprequestresponsehelper.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/AmqpRequestResponseHelper/jarexport.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=AmqpRequestResponseHelper/src&lt;eu.cocop.amqprequestresponsehelper{RequestResponseServer.java"/>
+        <javaElement handleIdentifier="=AmqpRequestResponseHelper/src&lt;eu.cocop.amqprequestresponsehelper{ConsumerHolderBase.java"/>
+        <javaElement handleIdentifier="=AmqpRequestResponseHelper/src&lt;eu.cocop.amqprequestresponsehelper{RequestResponseClient.java"/>
+        <file path="/AmqpRequestResponseHelper/README.md"/>
+        <javaElement handleIdentifier="=AmqpRequestResponseHelper/src&lt;eu.cocop.amqprequestresponsehelper{IRequestReceivedEventListener.java"/>
+        <javaElement handleIdentifier="=AmqpRequestResponseHelper/src&lt;eu.cocop.amqprequestresponsehelper{RequestReceivedEvent.java"/>
+        <file path="/AmqpRequestResponseHelper/LICENSE.txt"/>
+        <file path="/AmqpRequestResponseHelper/.classpath"/>
+    </selectedElements>
+</jardesc>
